@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190080932137",
+    "firebase_url": "https://senior-research-83969.firebaseio.com",
+    "project_id": "senior-research-83969",
+    "storage_bucket": "senior-research-83969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190080932137:android:60555e5c8a0ff48d9bff38",
+        "android_client_info": {
+          "package_name": "com.example.senior_research"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190080932137-e53repmurvdppqoata7kv4r3cthrnkci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.senior_research",
+            "certificate_hash": "fccec5f3e8d5131b6bdb04ec4099cd3c04857fdd"
+          }
+        },
+        {
+          "client_id": "190080932137-1tokc4ov9ohha9gofufdq70rse3g50u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHs6l2HA4-YFq8wniPicq_1PAaXBVMANs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190080932137-1tokc4ov9ohha9gofufdq70rse3g50u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
